@@ -1,0 +1,14 @@
+C:\Users\yesi.poveda\source\repos\basicA\basicA\bin\Debug\net7.0\basicA.exe
+C:\Users\yesi.poveda\source\repos\basicA\basicA\bin\Debug\net7.0\basicA.deps.json
+C:\Users\yesi.poveda\source\repos\basicA\basicA\bin\Debug\net7.0\basicA.runtimeconfig.json
+C:\Users\yesi.poveda\source\repos\basicA\basicA\bin\Debug\net7.0\basicA.dll
+C:\Users\yesi.poveda\source\repos\basicA\basicA\bin\Debug\net7.0\basicA.pdb
+C:\Users\yesi.poveda\source\repos\basicA\basicA\obj\Debug\net7.0\basicA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yesi.poveda\source\repos\basicA\basicA\obj\Debug\net7.0\basicA.AssemblyInfoInputs.cache
+C:\Users\yesi.poveda\source\repos\basicA\basicA\obj\Debug\net7.0\basicA.AssemblyInfo.cs
+C:\Users\yesi.poveda\source\repos\basicA\basicA\obj\Debug\net7.0\basicA.csproj.CoreCompileInputs.cache
+C:\Users\yesi.poveda\source\repos\basicA\basicA\obj\Debug\net7.0\basicA.dll
+C:\Users\yesi.poveda\source\repos\basicA\basicA\obj\Debug\net7.0\refint\basicA.dll
+C:\Users\yesi.poveda\source\repos\basicA\basicA\obj\Debug\net7.0\basicA.pdb
+C:\Users\yesi.poveda\source\repos\basicA\basicA\obj\Debug\net7.0\basicA.genruntimeconfig.cache
+C:\Users\yesi.poveda\source\repos\basicA\basicA\obj\Debug\net7.0\ref\basicA.dll
